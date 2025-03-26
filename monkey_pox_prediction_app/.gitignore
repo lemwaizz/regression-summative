@@ -1,0 +1,61 @@
+# Flutter & Dart related
+.dart_tool/
+.build/
+.pub/
+.packages
+flutter_gen/
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+
+# Android/Gradle specific files to ignore
+android/.gradle/
+android/build/
+android/app/build/
+android/.idea/
+android/local.properties
+android/captures/
+android/*.iml
+android/app/*.iml
+android/app/release/
+android/gradle.properties
+android/gradlew
+android/gradlew.bat
+android/gradle/wrapper/gradle-wrapper.jar
+
+# VS Code & JetBrains IDEs
+.idea/
+.vscode/
+
+# macOS
+macos/Pods/
+macos/.symlinks/
+macos/Flutter/ephemeral/
+
+# Windows
+windows/runner/Debug/
+windows/runner/Release/
+windows/runner/intermediates/
+
+# Linux
+linux/flutter/ephemeral/
+linux/flutter/generated_plugin_registrant.cc
+
+# Web
+web/.dart_tool/
+
+# Firebase & Credentials
+*.p8
+*.pem
+*.cer
+*.crt
+*.key
+firebase_options.dart
+
+# Logs & Misc
+*.log
+*.DS_Store
+*.lock
