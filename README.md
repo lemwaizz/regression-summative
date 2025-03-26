@@ -1,13 +1,13 @@
 # Regression Model API - README
 
-## 📌 Project Overview
+## Project Overview
 This project provides a publicly available API endpoint that returns predictions based on given input values. The API is built using FastAPI and is accessible via a deployed web service, which can be tested using Swagger UI.
 
-## 🌐 Public API Endpoint
+## Public API Endpoint
 You can access the API documentation and test the endpoint using Swagger UI here:
 [Regression Model API Docs](https://regression-summative.onrender.com/docs)
 
-## 🎥 Demo Video
+## Demo Video
 Watch the quick demo (max 2 minutes) on YouTube:
 [Demo Video Link] https://drive.google.com/file/d/1du1V5CY67rZ9qk4_ADu6sOsemkoacxCH/view?usp=sharing
 
